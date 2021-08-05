@@ -1,0 +1,17 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "MRBBATES1's Structure Import Pack",
+      "name" : "Structure Imports",
+      "uuid" : "9f26f1b3-2c67-4dcd-9b93-b7d41f20a857",
+      "version" : [ 0, 0, 1 ]
+   },
+   "modules" : [
+      {
+         "description" : "MRBBATES1's Structure Import Pack",
+         "type" : "data",
+         "uuid" : "0fba3287-136e-43c5-83a2-06ca0c79d385",
+         "version" : [ 0, 0, 1 ]
+      }
+   ]
+}
