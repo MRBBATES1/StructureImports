@@ -1,0 +1,1 @@
+Place your mcstructure files in this folder
