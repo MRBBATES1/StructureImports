@@ -6,7 +6,7 @@ __By:__ MRBBATES1
 
 __Description:__
 
-I made this to share across youtube in an attempt to simplfy the process of importing structures between worlds without the use of a 3rd party software.
+I made this to share across youtube in an attempt to simplify the process of importing structures between worlds without the use of a 3rd party software.
 
 Rather than trying to learn new software or create your own minecraft pack, you can download mine and get straight into it.
 
