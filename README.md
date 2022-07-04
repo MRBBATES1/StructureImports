@@ -1,6 +1,6 @@
 # StructureImports
 
-__Version:__ 1.16+
+__Version:__ 1.16+ (Tested and Confirmed working in 1.18+)
 
 __By:__ MRBBATES1
 
